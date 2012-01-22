@@ -1,0 +1,106 @@
+<NotepadPlus>
+    <Project name="sample_app">
+        <Folder name="app">
+            <Folder name="assets">
+                <Folder name="images">
+                    <File name="app\assets\images\rails.png" />
+                </Folder>
+                <Folder name="javascripts">
+                    <File name="app\assets\javascripts\application.js" />
+                </Folder>
+                <Folder name="stylesheets">
+                    <File name="app\assets\stylesheets\application.css" />
+                </Folder>
+            </Folder>
+            <Folder name="controllers">
+                <File name="app\controllers\application_controller.rb" />
+            </Folder>
+            <Folder name="helpers">
+                <File name="app\helpers\application_helper.rb" />
+            </Folder>
+            <Folder name="mailers">
+                <File name="app\mailers\.gitkeep" />
+            </Folder>
+            <Folder name="models">
+                <File name="app\models\.gitkeep" />
+            </Folder>
+            <Folder name="views">
+                <Folder name="layouts">
+                    <File name="app\views\layouts\application.html.erb" />
+                </Folder>
+            </Folder>
+        </Folder>
+        <Folder name="config">
+            <Folder name="environments">
+                <File name="config\environments\development.rb" />
+                <File name="config\environments\production.rb" />
+                <File name="config\environments\test.rb" />
+            </Folder>
+            <Folder name="initializers">
+                <File name="config\initializers\backtrace_silencers.rb" />
+                <File name="config\initializers\inflections.rb" />
+                <File name="config\initializers\mime_types.rb" />
+                <File name="config\initializers\secret_token.rb" />
+                <File name="config\initializers\session_store.rb" />
+                <File name="config\initializers\wrap_parameters.rb" />
+            </Folder>
+            <Folder name="locales">
+                <File name="config\locales\en.yml" />
+            </Folder>
+            <File name="config\application.rb" />
+            <File name="config\boot.rb" />
+            <File name="config\database.yml" />
+            <File name="config\environment.rb" />
+            <File name="config\routes.rb" />
+        </Folder>
+        <Folder name="db">
+            <File name="db\seeds.rb" />
+        </Folder>
+        <Folder name="doc">
+            <File name="doc\README_FOR_APP" />
+        </Folder>
+        <Folder name="lib">
+            <Folder name="assets">
+                <File name="lib\assets\.gitkeep" />
+            </Folder>
+            <Folder name="tasks">
+                <File name="lib\tasks\.gitkeep" />
+            </Folder>
+        </Folder>
+        <Folder name="log">
+            <File name="log\.gitkeep" />
+        </Folder>
+        <Folder name="public">
+            <File name="public\404.html" />
+            <File name="public\422.html" />
+            <File name="public\500.html" />
+            <File name="public\favicon.ico" />
+            <File name="public\index.html" />
+            <File name="public\robots.txt" />
+        </Folder>
+        <Folder name="script">
+            <File name="script\rails" />
+        </Folder>
+        <Folder name="tmp">
+            <Folder name="cache">
+                <Folder name="assets" />
+            </Folder>
+        </Folder>
+        <Folder name="vendor">
+            <Folder name="assets">
+                <Folder name="stylesheets">
+                    <File name="vendor\assets\stylesheets\.gitkeep" />
+                </Folder>
+            </Folder>
+            <Folder name="plugins">
+                <File name="vendor\plugins\.gitkeep" />
+            </Folder>
+        </Folder>
+        <File name=".gitignore" />
+        <File name="config.ru" />
+        <File name="Gemfile" />
+        <File name="Gemfile.lock" />
+        <File name="Rakefile" />
+        <File name="README.markdown" />
+    </Project>
+</NotepadPlus>
