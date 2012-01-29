@@ -4,4 +4,8 @@ class UsersController < ApplicationController
     @title = 'Sign Up'
   end
 
+  def algo
+  	
+  end
+
 end
