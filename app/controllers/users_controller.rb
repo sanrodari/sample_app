@@ -4,8 +4,8 @@ class UsersController < ApplicationController
     @title = 'Sign Up'
   end
 
-  def algo
-  	
+  def show
+    @user = User.find(params[:id])
   end
 
 end
